@@ -1,0 +1,48 @@
+.friends .friends__plus {
+  padding: 20px 0px;
+  border-top: 1px solid #c7c6c6;
+  border-bottom: 1px solid #c7c6c6;
+  margin: 20px 0px;
+}
+
+.friends__plus .friends__title,
+.friends__list .friends__title {
+  font-size: 14px;
+  opacity: 0.6;
+  margin-bottom: 12px;
+}
+
+.friends .friend--lg {
+  margin-bottom: 15px;
+}
+/**/
+.friends-body {
+  padding: 10px 0px;
+  min-height: 150vh;
+}
+
+.friends-body .fixed {
+  position: fixed;
+  z-index: 5;
+  top: 0px;
+  width: 100%;
+  padding: 10px 10px 5px 10px;
+  background-color: white;
+}
+
+.friends {
+  padding: 0px 20px;
+}
+.friends .friends__header {
+  margin-top: 110px;
+}
+
+/*플러스친구*/
+.friend__column .friend__new {
+  cursor: pointer;
+}
+
+.friend__new span {
+  opacity: 0.7;
+  font-size: 13px;
+}
