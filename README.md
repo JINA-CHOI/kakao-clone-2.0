@@ -2,7 +2,7 @@
 <br/>
 <br/>
 
-#👩🏻‍💻구현
+# 👩🏻‍💻구현
 https://jina-choi.github.io/kakao-clone-2.0/friends.html
 <br/>
 <br/>
