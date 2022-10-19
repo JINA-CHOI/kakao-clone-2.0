@@ -9,15 +9,17 @@ https://jina-choi.github.io/kakao-clone-2.0/friends.html
 
 - 카카오톡 인터페이스를 웹사이트 버전으로 구현한 클론코딩입니다.
 - 대화목록에서 각각의 대화명을 클릭하면 대화내용을 확인할 수 있습니다.
-- CSS 레이아웃은 flex를 사용하였고 동적인 구현은 CSS animaiton과 JavaScript를 사용하였습니다.
+- CSS 레이아웃은 flex를 사용하였고 동적인 구현은 CSS animaiton을 사용하였습니다.
 
 <br/>
 <br/>
 
 # 🛠 사용기술
-- HTML5
-- CSS3
-- JavaScript
+- Flex Layout
+- Hover Effect
+- Transition
+- Animation
+- Media Queries
 
 <br/>
 <br/>
